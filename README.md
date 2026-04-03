@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Achyut Kulkarni
 
 **Machine Learning Engineer** • **AI Systems Developer** • **Data Scientist**  
-📧 achyutsridharkulkarni@gmail.com  
+📧 askachyut@gmail.com  
 [🌐 Portfolio](https://achyutkulkarni.github.io) • [🔗 LinkedIn](https://linkedin.com/in/achyutsk)
 
 ---
@@ -42,4 +42,4 @@ I build **high-performance AI systems**, **cloud‑edge deployments**, and **exp
 
 ## 📫 Connect with Me
 
-📧 achyutsridharkulkarni@gmail.com • [LinkedIn](https://linkedin.com/in/achyutsk) • [Portfolio](https://achyutkulkarni.github.io)
+📧 askachyut@gmail.com • [LinkedIn](https://linkedin.com/in/achyutsk) • [Portfolio](https://achyutkulkarni.github.io)
